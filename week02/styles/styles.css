@@ -1,0 +1,17 @@
+selector {
+    property: value;
+}
+
+
+    
+h1{
+    background-color: lightblue;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
+
+footer{
+    color: pink;
+    
+}
